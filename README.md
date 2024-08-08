@@ -25,6 +25,7 @@ The beneficiary's residential area in the US, northeast, southeast, southwest, n
 Individual medical costs billed by health insurance.
 
 ## Setup
+
 ### Virtual Environment (VENV) Setup
 A virtual environment (venv) allows you to manage separate package installations for different projects, creating an isolated Python environment for each project. This ensures that packages installed for one project do not interfere with those in another.
 
