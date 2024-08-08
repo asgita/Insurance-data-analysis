@@ -52,3 +52,11 @@ Once your virtual environment is activated, you can install packages using pip. 
 Windows: python -m pip install -r requirements.txt
 
 MacOS/Unix: python3 -m pip install -r requirements.txt
+
+
+## Conclusions:
+
+ Females pays more for insurance than males. 
+ There are strong positive correlations between smoker/age & charges, less so between bmi & charges.
+ The 'charges' is not normally distributed, so are male charges & female charges.
+ There are outliers in 'charges'. But they are deemed normal for people pay more for smoking, age or bmi related reasons.
