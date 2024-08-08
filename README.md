@@ -20,3 +20,6 @@ Smoker / Non - smoker
 
 ## Region
 The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+
+## Charges
+Individual medical costs billed by health insurance.
